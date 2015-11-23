@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on GIP-Wout Segers</title>
+    <link>http://wout-segers.github.io/categories/software/</link>
+    <description>Recent content in Software on GIP-Wout Segers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2015 20:26:08 +0200</lastBuildDate>
+    <atom:link href="http://wout-segers.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Workflow: Hugo vs WordPress</title>
+      <link>http://wout-segers.github.io/post/Workflow/</link>
+      <pubDate>Thu, 22 Oct 2015 20:26:08 +0200</pubDate>
+      
+      <guid>http://wout-segers.github.io/post/Workflow/</guid>
+      <description>
+
+&lt;h2 id=&#34;wordpress:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Wordpress&lt;/h2&gt;
+
+&lt;p&gt;Voordelen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Het is een open source programma dus je kan je code baseren op anderen hun code.&lt;/li&gt;
+&lt;li&gt;Het is makkelijk om te gebruiken, je kan een hele site maken met alleen maar muisklikken zonder zelf code te hoeven schrijven.&lt;/li&gt;
+&lt;li&gt;Je kan van een basissite beginne en dan je eigen onderdelen toevoegen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nadelen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Omdat het een open source programma is is het ook makkelijker voor hackers om beveiligingslekken te vinden.&lt;/li&gt;
+&lt;li&gt;Je kan het niet gebruiken om geavanceerde sites te maken.&lt;/li&gt;
+&lt;li&gt;Je hebt niet veel variatie tussen de verschillende sites.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;hugo:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Hugo&lt;/h2&gt;
+
+&lt;p&gt;Voordelen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Omdat de code is onderverdeeld in verschillende mappen is het heel overzichtelijk.&lt;/li&gt;
+&lt;li&gt;Het template-systeem zorgt ervoor dat je niet alle code zelf moet schrijven maar dat je toch volledige controle hebt over wat je doet.&lt;/li&gt;
+&lt;li&gt;Je kunt je baseren op bestaande themes en vanaf daar beginnen aanpassen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nadelen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moeilijk voor beginners om het mappensysteem te begrijpen.&lt;/li&gt;
+&lt;li&gt;Er is niet veel over te vinden op het internet.&lt;/li&gt;
+&lt;li&gt;Moeilijk om zelf code te sschrijven als je van een theme begint.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;mijn-keuze:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Mijn keuze&lt;/h2&gt;
+
+&lt;p&gt;Ik verkies hugo boven WordPress. Ookal vond ik het heel moeilijk om te beginnen met hugo om wille van de mappenindeling verkies ik het boven WordPress.
+ WordPress is veel gemakkelijker om te gebruiken maar je hebt niet zo veel mogelijkheden. Alle sites die met WordPress worden gemaakt, lijken op een of andere manier op elkaar.&lt;br /&gt;
+ Ook heb je in hugo meer vrijheid je kan kiezen wat je doet: van een theme beginnen, zelf een theme maken, zelf templates maken&amp;hellip;&lt;br /&gt;
+ Tenslotte werkt hugo ook goed samen met GitLab, je commits laten heel goed zien wat je de laatste keer allemaal hebt aangepast.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

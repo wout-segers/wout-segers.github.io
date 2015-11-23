@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GIP-Wout Segers</title>
+    <link>http://wout-segers.github.io/post/</link>
+    <description>Recent content in Posts on GIP-Wout Segers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2015 20:26:08 +0200</lastBuildDate>
+    <atom:link href="http://wout-segers.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Workflow: Hugo vs WordPress</title>
+      <link>http://wout-segers.github.io/post/Workflow/</link>
+      <pubDate>Thu, 22 Oct 2015 20:26:08 +0200</pubDate>
+      
+      <guid>http://wout-segers.github.io/post/Workflow/</guid>
+      <description>
+
+&lt;h2 id=&#34;wordpress:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Wordpress&lt;/h2&gt;
+
+&lt;p&gt;Voordelen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Het is een open source programma dus je kan je code baseren op anderen hun code.&lt;/li&gt;
+&lt;li&gt;Het is makkelijk om te gebruiken, je kan een hele site maken met alleen maar muisklikken zonder zelf code te hoeven schrijven.&lt;/li&gt;
+&lt;li&gt;Je kan van een basissite beginne en dan je eigen onderdelen toevoegen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nadelen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Omdat het een open source programma is is het ook makkelijker voor hackers om beveiligingslekken te vinden.&lt;/li&gt;
+&lt;li&gt;Je kan het niet gebruiken om geavanceerde sites te maken.&lt;/li&gt;
+&lt;li&gt;Je hebt niet veel variatie tussen de verschillende sites.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;hugo:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Hugo&lt;/h2&gt;
+
+&lt;p&gt;Voordelen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Omdat de code is onderverdeeld in verschillende mappen is het heel overzichtelijk.&lt;/li&gt;
+&lt;li&gt;Het template-systeem zorgt ervoor dat je niet alle code zelf moet schrijven maar dat je toch volledige controle hebt over wat je doet.&lt;/li&gt;
+&lt;li&gt;Je kunt je baseren op bestaande themes en vanaf daar beginnen aanpassen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nadelen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moeilijk voor beginners om het mappensysteem te begrijpen.&lt;/li&gt;
+&lt;li&gt;Er is niet veel over te vinden op het internet.&lt;/li&gt;
+&lt;li&gt;Moeilijk om zelf code te sschrijven als je van een theme begint.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;mijn-keuze:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Mijn keuze&lt;/h2&gt;
+
+&lt;p&gt;Ik verkies hugo boven WordPress. Ookal vond ik het heel moeilijk om te beginnen met hugo om wille van de mappenindeling verkies ik het boven WordPress.
+ WordPress is veel gemakkelijker om te gebruiken maar je hebt niet zo veel mogelijkheden. Alle sites die met WordPress worden gemaakt, lijken op een of andere manier op elkaar.&lt;br /&gt;
+ Ook heb je in hugo meer vrijheid je kan kiezen wat je doet: van een theme beginnen, zelf een theme maken, zelf templates maken&amp;hellip;&lt;br /&gt;
+ Tenslotte werkt hugo ook goed samen met GitLab, je commits laten heel goed zien wat je de laatste keer allemaal hebt aangepast.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT autobiography</title>
+      <link>http://wout-segers.github.io/post/ITautobiography/</link>
+      <pubDate>Thu, 22 Oct 2015 18:31:40 +0200</pubDate>
+      
+      <guid>http://wout-segers.github.io/post/ITautobiography/</guid>
+      <description>&lt;p&gt;My name is Wout Segers and I am seventeen years old. I like to spend much time gaming. I am a first tier League of Legends player and I am also known to be a minecraft-god. Right now I am studying IT management at the Immaculata Institute. This is my last year of high school, last year I studied IT management as well. That was the first time I learned something new about IT. I had had some lessons IT at Sint-Jan but we only learned some basic things.&lt;/p&gt;
+
+&lt;p&gt;The first time I came in contact with IT was very long ago. I was at family reunion and my uncle had brought a laptop with him. I was five years old I think and at that time laptops where very rare I never saw something like that. He couldn’t do much with it but he showed me how he played chess with it and I thought it was amazing. When I was six years old , I got a Gameboy Advance for my birthday. My parents thought I would get addicted to it so they made a rule that I could only play one hour a day. Two years later I got my PlayStation Portable and then I really got into gaming. It was then that my father bought a new computer. I really enjoyed playing browser games on the “spele.nl” site. Now at this time I am really enjoying minecraft and League of Legends. Sometimes I am fed up with playing games and then I just go on YouTube and watch some videos.&lt;/p&gt;
+
+&lt;p&gt;IT is a pretty big part of my life. When I come home from school I directly get on my pc. I don’t think I am addicted to the internet because I could easily live a week without the internet. When I go camping with the Chiro I don’t use my phone for ten days and I never had problems with it. I just got a new computer for gaming but also because I need it for school. I need my pc for almost every school task I make. I feel like how older I get the  more I rely on a pc and the internet. But I think that’s normal because a pc offers a way to do everything more easily.&lt;/p&gt;
+
+&lt;p&gt;If I pass this year I most likely am going to do something with IT. I am probably going to do something with programming because I like programming a bit more than network management. I think it’s a good idea to study IT because there is a lot of work to find in it. I would like to work for Blizzard or Riot Games because they are the producers of my favorite games and I would love to make those games even better than they are now already.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i882.photobucket.com/albums/ac27/woutsegers/Afbeelding%20gip%20engels_zps6ntxaaw9.jpg~original&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foire aux questions</title>
+      <link>http://wout-segers.github.io/post/FAQ/</link>
+      <pubDate>Thu, 22 Oct 2015 18:08:58 +0200</pubDate>
+      
+      <guid>http://wout-segers.github.io/post/FAQ/</guid>
+      <description>
+
+&lt;h2 id=&#34;ici-on-trouve-mon-foire-aux-questions-et-les-réponses-de-l-application-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;&lt;strong&gt;Ici on trouve mon foire aux questions et les réponses de l’application de Plickers.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;h3 id=&#34;qu-est-ce-que-c-est-l-intérêt-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Qu’est-ce que c’est l’intérêt de Plickers?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;L’intérêt de Plickers est une façon d’apprendre des nouvelles choses. C’est plus facile pour les élèves de rester intéressé.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;pourquoi-est-ce-que-les-réponses-sont-très-petites:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Pourquoi est-ce que les réponses sont très petites?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Les réponses sont petites pour que les élèves ne trichent pas ainsi c’est chacun pour soi. En plus les élèves ne doivent pas avoir peur de donner une réponse fausse.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;quel-est-le-prix-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Quel est le prix de Plickers?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;C’est gratuit et ça va rester comme ça, mais peut-être on va créer une version “Premium”.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;où-peut-on-obtenir-les-cartes-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Où peut-on obtenir les cartes de Plickers?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;On peut imprimer les cartes sur le site de Plickers. On peut aussi choisir le format des cartes.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;de-quoi-est-ce-qu-on-a-besoin-quand-on-utilise-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;De quoi est-ce qu’on a besoin quand on utilise Plickers ?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;On a besoin d’un ordinateur, d’un smartphone ou d’un tablet, d’une imprimante et d’un projecteur LCD ou d’un SMART board.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT Tapa</title>
+      <link>http://wout-segers.github.io/post/IT-Tapa/</link>
+      <pubDate>Mon, 19 Oct 2015 20:07:19 +0200</pubDate>
+      
+      <guid>http://wout-segers.github.io/post/IT-Tapa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
