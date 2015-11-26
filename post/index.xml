@@ -19,7 +19,7 @@
 
 &lt;h2 id=&#34;wordpress:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Wordpress&lt;/h2&gt;
 
-&lt;p&gt;Voordelen:&lt;/p&gt;
+&lt;h3 id=&#34;voordelen:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Voordelen:&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Het is een open source programma dus je kan je code baseren op anderen hun code.&lt;/li&gt;
@@ -27,7 +27,7 @@
 &lt;li&gt;Je kan van een basissite beginne en dan je eigen onderdelen toevoegen.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Nadelen:&lt;/p&gt;
+&lt;h3 id=&#34;nadelen:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Nadelen:&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Omdat het een open source programma is is het ook makkelijker voor hackers om beveiligingslekken te vinden.&lt;/li&gt;
@@ -37,7 +37,7 @@
 
 &lt;h2 id=&#34;hugo:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Hugo&lt;/h2&gt;
 
-&lt;p&gt;Voordelen:&lt;/p&gt;
+&lt;h3 id=&#34;voordelen-1:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Voordelen:&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Omdat de code is onderverdeeld in verschillende mappen is het heel overzichtelijk.&lt;/li&gt;
@@ -45,13 +45,41 @@
 &lt;li&gt;Je kunt je baseren op bestaande themes en vanaf daar beginnen aanpassen.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Nadelen:&lt;/p&gt;
+&lt;h3 id=&#34;nadelen-1:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Nadelen:&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Moeilijk voor beginners om het mappensysteem te begrijpen.&lt;/li&gt;
 &lt;li&gt;Er is niet veel over te vinden op het internet.&lt;/li&gt;
 &lt;li&gt;Moeilijk om zelf code te sschrijven als je van een theme begint.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;directory-structuur:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Directory-structuur:&lt;/h2&gt;
+
+&lt;p&gt;De code van mijn Hugo site is onderverdeeld in verschillende mappen en bestanden om het overzichtelijk te houden.
+Hieronder een opsomming van mijn mappen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Content&lt;/li&gt;
+&lt;li&gt;Layouts&lt;/li&gt;
+&lt;li&gt;Static&lt;/li&gt;
+&lt;li&gt;En nog een config.toml bestand&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;content:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Content&lt;/h4&gt;
+
+&lt;p&gt;In deze map zitten al mijn posts. Dat zijn Markdown bestanden die ik zelf geschreven heb. Deze bestanden zullen dan ingedeeld worden per category op mijn site.&lt;/p&gt;
+
+&lt;h4 id=&#34;layouts:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Layouts&lt;/h4&gt;
+
+&lt;p&gt;In de Layouts map zitten al de bestanden die ik heb gekopiëerd van het thema purehugo. In deze bestanden heb ik het meeste veranderd. Ik heb extra code toegevoegd in de sidebar die zorgt voor een hoofdmenu op de sidebar van mijn site.&lt;/p&gt;
+
+&lt;h4 id=&#34;static:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Static&lt;/h4&gt;
+
+&lt;p&gt;In de Static map zit al de css en de javascript van de site. Aan de javascript heb ik zelf niets veranderd maar in de css-file heb ik zelf nog veel code extra bijgeschreven om wat van de opmaak van de site te veranderen.&lt;/p&gt;
+
+&lt;h4 id=&#34;config-toml:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Config.toml&lt;/h4&gt;
+
+&lt;p&gt;In dit bestand wordt de site geconfigureerd. Hier staan aanwijzigingen in voor Hugo hoe de site moet worden opgebouwd.&lt;/p&gt;
 
 &lt;h2 id=&#34;mijn-keuze:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Mijn keuze&lt;/h2&gt;
 

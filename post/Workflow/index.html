@@ -45,32 +45,32 @@
             <h1 class="titel"><a href="http://wout-segers.github.io/">GIP-Wout Segers</a></h1>
             <h2 class="brand-tagline"></h2>
         </hgroup>
-			
-  
+
+
     <div class="category-div">
 	<section>
 	<p style= "color: white; font-size: 50px;">Vakken</p>
-  <ul style ="font-size: 20px;">
+  <ul style ="font-size: 20px; list-style-type: none;">
     
-      
-        <ul style=" color:white; font-size: 20px;">
+
+        <ul style=" color:white; font-size: 20px; list-style-type: none";>
           
-          <strong><li style= "font-size: 30px;"> engels </li></strong>
-                <ul>
+          <strong><li style= "font-size: 30px; list-style-type:none;"> engels </li></strong>
+                <ul style ="list-style-type:none;">
                 
                     <li hugo-nav="/post/ITautobiography/"><a href="http://wout-segers.github.io/post/ITautobiography/"> IT autobiography </a> </li>
                 
                 </ul>
           
-          <strong><li style= "font-size: 30px;"> software </li></strong>
-                <ul>
+          <strong><li style= "font-size: 30px; list-style-type:none;"> software </li></strong>
+                <ul style ="list-style-type:none;">
                 
                     <li hugo-nav="/post/Workflow/"><a href="http://wout-segers.github.io/post/Workflow/"> Workflow: Hugo vs WordPress </a> </li>
                 
                 </ul>
           
-          <strong><li style= "font-size: 30px;"> systeembeheer </li></strong>
-                <ul>
+          <strong><li style= "font-size: 30px; list-style-type:none;"> systeembeheer </li></strong>
+                <ul style ="list-style-type:none;">
                 
                     <li hugo-nav="/post/FAQ/"><a href="http://wout-segers.github.io/post/FAQ/"> Foire aux questions </a> </li>
                 
@@ -79,13 +79,13 @@
                 </ul>
           
         </ul>
-      
+
     
-      
-        <ul style=" color:white; font-size: 20px;">
+
+        <ul style=" color:white; font-size: 20px; list-style-type: none";>
           
         </ul>
-      
+
     
   </ul>
 </section>
@@ -94,7 +94,7 @@
             <ul class="nav-list">
                 
                 
-                
+
             </ul>
         </nav>
     </div>
@@ -127,7 +127,7 @@
 
 <h2 id="wordpress:fbd7f50684705fd66be25216c78b3b2e">Wordpress</h2>
 
-<p>Voordelen:</p>
+<h3 id="voordelen:fbd7f50684705fd66be25216c78b3b2e">Voordelen:</h3>
 
 <ul>
 <li>Het is een open source programma dus je kan je code baseren op anderen hun code.</li>
@@ -135,7 +135,7 @@
 <li>Je kan van een basissite beginne en dan je eigen onderdelen toevoegen.</li>
 </ul>
 
-<p>Nadelen:</p>
+<h3 id="nadelen:fbd7f50684705fd66be25216c78b3b2e">Nadelen:</h3>
 
 <ul>
 <li>Omdat het een open source programma is is het ook makkelijker voor hackers om beveiligingslekken te vinden.</li>
@@ -145,7 +145,7 @@
 
 <h2 id="hugo:fbd7f50684705fd66be25216c78b3b2e">Hugo</h2>
 
-<p>Voordelen:</p>
+<h3 id="voordelen-1:fbd7f50684705fd66be25216c78b3b2e">Voordelen:</h3>
 
 <ul>
 <li>Omdat de code is onderverdeeld in verschillende mappen is het heel overzichtelijk.</li>
@@ -153,13 +153,41 @@
 <li>Je kunt je baseren op bestaande themes en vanaf daar beginnen aanpassen.</li>
 </ul>
 
-<p>Nadelen:</p>
+<h3 id="nadelen-1:fbd7f50684705fd66be25216c78b3b2e">Nadelen:</h3>
 
 <ul>
 <li>Moeilijk voor beginners om het mappensysteem te begrijpen.</li>
 <li>Er is niet veel over te vinden op het internet.</li>
 <li>Moeilijk om zelf code te sschrijven als je van een theme begint.</li>
 </ul>
+
+<h2 id="directory-structuur:fbd7f50684705fd66be25216c78b3b2e">Directory-structuur:</h2>
+
+<p>De code van mijn Hugo site is onderverdeeld in verschillende mappen en bestanden om het overzichtelijk te houden.
+Hieronder een opsomming van mijn mappen:</p>
+
+<ul>
+<li>Content</li>
+<li>Layouts</li>
+<li>Static</li>
+<li>En nog een config.toml bestand</li>
+</ul>
+
+<h4 id="content:fbd7f50684705fd66be25216c78b3b2e">Content</h4>
+
+<p>In deze map zitten al mijn posts. Dat zijn Markdown bestanden die ik zelf geschreven heb. Deze bestanden zullen dan ingedeeld worden per category op mijn site.</p>
+
+<h4 id="layouts:fbd7f50684705fd66be25216c78b3b2e">Layouts</h4>
+
+<p>In de Layouts map zitten al de bestanden die ik heb gekopiëerd van het thema purehugo. In deze bestanden heb ik het meeste veranderd. Ik heb extra code toegevoegd in de sidebar die zorgt voor een hoofdmenu op de sidebar van mijn site.</p>
+
+<h4 id="static:fbd7f50684705fd66be25216c78b3b2e">Static</h4>
+
+<p>In de Static map zit al de css en de javascript van de site. Aan de javascript heb ik zelf niets veranderd maar in de css-file heb ik zelf nog veel code extra bijgeschreven om wat van de opmaak van de site te veranderen.</p>
+
+<h4 id="config-toml:fbd7f50684705fd66be25216c78b3b2e">Config.toml</h4>
+
+<p>In dit bestand wordt de site geconfigureerd. Hier staan aanwijzigingen in voor Hugo hoe de site moet worden opgebouwd.</p>
 
 <h2 id="mijn-keuze:fbd7f50684705fd66be25216c78b3b2e">Mijn keuze</h2>
 
