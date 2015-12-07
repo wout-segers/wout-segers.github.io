@@ -2,19 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIP-Wout Segers</title>
-    <link>http://wout-segers.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on GIP-Wout Segers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2015 20:26:08 +0200</lastBuildDate>
-    <atom:link href="http://wout-segers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Dec 2015 16:53:35 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IT Tapa Midddagsessie</title>
+      <link>http://localhost:1313/post/IT-TapaMidddagsessie/</link>
+      <pubDate>Mon, 07 Dec 2015 16:53:35 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/IT-TapaMidddagsessie/</guid>
+      <description>&lt;p&gt;In onze middagsessie moesten Tom en ik de tool Plickers voorstellen. Plickers is een tool waarmee je een quiz kunt opstellen.&lt;br /&gt;
+Het speciale aan deze quiz is dat je moet antwoorden aan de hand van QR-codes. Elke deelnemer krijgt een eigen kaart met een QR-code op en aan de hand van hoe je de kaart houdt geef je een antwoord op de quizvraag.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tom-dams.github.io&#34; title=&#34;Tom&#39;s GIP-site&#34;&gt;Tom&amp;rsquo;s GIP-site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/IT-tapa-588405757863108/?fref=ts&#34; title=&#34;Tom&#39;s GIP-site&#34;&gt;IT-tapa facebookpagina&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://scontent-ams2-1.xx.fbcdn.net/hphotos-xpl1/t31.0-8/12247685_931605636876450_3887311659982239267_o.jpg&#34;&gt;
+&lt;img src=&#34;https://scontent-ams2-1.xx.fbcdn.net/hphotos-xpa1/t31.0-8/12194729_931605640209783_7826005961881961057_o.jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instructiefilmpje Plickers Engels</title>
+      <link>http://localhost:1313/post/InstructiefilmpjePlickersEngels/</link>
+      <pubDate>Mon, 07 Dec 2015 16:47:37 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/InstructiefilmpjePlickersEngels/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kyP6U8SHb90&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instructiefilmpje Plickers</title>
+      <link>http://localhost:1313/post/InstructiefilmpjePlickers/</link>
+      <pubDate>Mon, 07 Dec 2015 16:42:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/InstructiefilmpjePlickers/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_7OVpWjr8lE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Workflow: Hugo vs WordPress</title>
-      <link>http://wout-segers.github.io/post/Workflow/</link>
+      <link>http://localhost:1313/post/Workflow/</link>
       <pubDate>Thu, 22 Oct 2015 20:26:08 +0200</pubDate>
       
-      <guid>http://wout-segers.github.io/post/Workflow/</guid>
+      <guid>http://localhost:1313/post/Workflow/</guid>
       <description>
 
 &lt;h2 id=&#34;wordpress:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Wordpress&lt;/h2&gt;
@@ -92,10 +130,10 @@ Hieronder een opsomming van mijn mappen:&lt;/p&gt;
     
     <item>
       <title>IT autobiography</title>
-      <link>http://wout-segers.github.io/post/ITautobiography/</link>
+      <link>http://localhost:1313/post/ITautobiography/</link>
       <pubDate>Thu, 22 Oct 2015 18:31:40 +0200</pubDate>
       
-      <guid>http://wout-segers.github.io/post/ITautobiography/</guid>
+      <guid>http://localhost:1313/post/ITautobiography/</guid>
       <description>&lt;p&gt;My name is Wout Segers and I am seventeen years old. I like to spend much time gaming. I am a first tier League of Legends player and I am also known to be a minecraft-god. Right now I am studying IT management at the Immaculata Institute. This is my last year of high school, last year I studied IT management as well. That was the first time I learned something new about IT. I had had some lessons IT at Sint-Jan but we only learned some basic things.&lt;/p&gt;
 
 &lt;p&gt;The first time I came in contact with IT was very long ago. I was at family reunion and my uncle had brought a laptop with him. I was five years old I think and at that time laptops where very rare I never saw something like that. He couldn’t do much with it but he showed me how he played chess with it and I thought it was amazing. When I was six years old , I got a Gameboy Advance for my birthday. My parents thought I would get addicted to it so they made a rule that I could only play one hour a day. Two years later I got my PlayStation Portable and then I really got into gaming. It was then that my father bought a new computer. I really enjoyed playing browser games on the “spele.nl” site. Now at this time I am really enjoying minecraft and League of Legends. Sometimes I am fed up with playing games and then I just go on YouTube and watch some videos.&lt;/p&gt;
@@ -111,25 +149,25 @@ Hieronder een opsomming van mijn mappen:&lt;/p&gt;
     
     <item>
       <title>Foire aux questions</title>
-      <link>http://wout-segers.github.io/post/FAQ/</link>
+      <link>http://localhost:1313/post/FAQ/</link>
       <pubDate>Thu, 22 Oct 2015 18:08:58 +0200</pubDate>
       
-      <guid>http://wout-segers.github.io/post/FAQ/</guid>
+      <guid>http://localhost:1313/post/FAQ/</guid>
       <description>
 
-&lt;h2 id=&#34;ici-on-trouve-mon-foire-aux-questions-et-les-réponses-de-l-application-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;&lt;strong&gt;Ici on trouve mon foire aux questions et les réponses de l’application de Plickers.&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;voici-la-foire-aux-questions-et-les-réponses-de-l-application-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;&lt;strong&gt;Voici la Foire Aux Questions et les réponses de l&amp;rsquo;application de Plickers.&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;h3 id=&#34;qu-est-ce-que-c-est-l-intérêt-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Qu’est-ce que c’est l’intérêt de Plickers?&lt;/h3&gt;
+&lt;li&gt;&lt;h3 id=&#34;quel-est-l-intérêt-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Quel est l&amp;rsquo;intérêt de Plickers?&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;L’intérêt de Plickers est une façon d’apprendre des nouvelles choses. C’est plus facile pour les élèves de rester intéressé.&lt;/li&gt;
+&lt;li&gt;L’intérêt de Plickers est une façon d’apprendre des nouvelles choses. C’est plus facile pour les élèves de rester intéressés.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;h3 id=&#34;pourquoi-est-ce-que-les-réponses-sont-très-petites:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Pourquoi est-ce que les réponses sont très petites?&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Les réponses sont petites pour que les élèves ne trichent pas ainsi c’est chacun pour soi. En plus les élèves ne doivent pas avoir peur de donner une réponse fausse.&lt;/li&gt;
+&lt;li&gt;Les réponses sont petites pour que les élèves ne trichent pas, ainsi c’est chacun pour soi. En plus les élèves ne doivent pas avoir peur de donner une réponse fausse.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;h3 id=&#34;quel-est-le-prix-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Quel est le prix de Plickers?&lt;/h3&gt;
@@ -147,7 +185,7 @@ Hieronder een opsomming van mijn mappen:&lt;/p&gt;
 &lt;li&gt;&lt;h3 id=&#34;de-quoi-est-ce-qu-on-a-besoin-quand-on-utilise-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;De quoi est-ce qu’on a besoin quand on utilise Plickers ?&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;On a besoin d’un ordinateur, d’un smartphone ou d’un tablet, d’une imprimante et d’un projecteur LCD ou d’un SMART board.&lt;/li&gt;
+&lt;li&gt;On a besoin d’un ordinateur, d’un smartphone ou d’une tablette numérique, d’une imprimante et d’un projecteur LCD ou d’un SMART board.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -155,10 +193,10 @@ Hieronder een opsomming van mijn mappen:&lt;/p&gt;
     
     <item>
       <title>IT Tapa</title>
-      <link>http://wout-segers.github.io/post/IT-Tapa/</link>
+      <link>http://localhost:1313/post/IT-Tapa/</link>
       <pubDate>Mon, 19 Oct 2015 20:07:19 +0200</pubDate>
       
-      <guid>http://wout-segers.github.io/post/IT-Tapa/</guid>
+      <guid>http://localhost:1313/post/IT-Tapa/</guid>
       <description></description>
     </item>
     

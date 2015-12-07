@@ -2,19 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engels on GIP-Wout Segers</title>
-    <link>http://wout-segers.github.io/categories/engels/</link>
+    <link>http://localhost:1313/categories/engels/</link>
     <description>Recent content in Engels on GIP-Wout Segers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2015 18:31:40 +0200</lastBuildDate>
-    <atom:link href="http://wout-segers.github.io/categories/engels/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Dec 2015 16:47:37 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/engels/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instructiefilmpje Plickers Engels</title>
+      <link>http://localhost:1313/post/InstructiefilmpjePlickersEngels/</link>
+      <pubDate>Mon, 07 Dec 2015 16:47:37 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/InstructiefilmpjePlickersEngels/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kyP6U8SHb90&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>IT autobiography</title>
-      <link>http://wout-segers.github.io/post/ITautobiography/</link>
+      <link>http://localhost:1313/post/ITautobiography/</link>
       <pubDate>Thu, 22 Oct 2015 18:31:40 +0200</pubDate>
       
-      <guid>http://wout-segers.github.io/post/ITautobiography/</guid>
+      <guid>http://localhost:1313/post/ITautobiography/</guid>
       <description>&lt;p&gt;My name is Wout Segers and I am seventeen years old. I like to spend much time gaming. I am a first tier League of Legends player and I am also known to be a minecraft-god. Right now I am studying IT management at the Immaculata Institute. This is my last year of high school, last year I studied IT management as well. That was the first time I learned something new about IT. I had had some lessons IT at Sint-Jan but we only learned some basic things.&lt;/p&gt;
 
 &lt;p&gt;The first time I came in contact with IT was very long ago. I was at family reunion and my uncle had brought a laptop with him. I was five years old I think and at that time laptops where very rare I never saw something like that. He couldn’t do much with it but he showed me how he played chess with it and I thought it was amazing. When I was six years old , I got a Gameboy Advance for my birthday. My parents thought I would get addicted to it so they made a rule that I could only play one hour a day. Two years later I got my PlayStation Portable and then I really got into gaming. It was then that my father bought a new computer. I really enjoyed playing browser games on the “spele.nl” site. Now at this time I am really enjoying minecraft and League of Legends. Sometimes I am fed up with playing games and then I just go on YouTube and watch some videos.&lt;/p&gt;
