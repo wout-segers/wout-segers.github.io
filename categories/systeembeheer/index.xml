@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systeembeheer on GIP-Wout Segers</title>
-    <link>http://localhost:1313/categories/systeembeheer/</link>
+    <link>http://wout-segers.github.io/categories/systeembeheer/</link>
     <description>Recent content in Systeembeheer on GIP-Wout Segers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2015 18:08:58 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/systeembeheer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wout-segers.github.io/categories/systeembeheer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Foire aux questions</title>
-      <link>http://localhost:1313/post/FAQ/</link>
+      <link>http://wout-segers.github.io/post/FAQ/</link>
       <pubDate>Thu, 22 Oct 2015 18:08:58 +0200</pubDate>
       
-      <guid>http://localhost:1313/post/FAQ/</guid>
+      <guid>http://wout-segers.github.io/post/FAQ/</guid>
       <description>
 
 &lt;h2 id=&#34;voici-la-foire-aux-questions-et-les-réponses-de-l-application-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;&lt;strong&gt;Voici la Foire Aux Questions et les réponses de l&amp;rsquo;application de Plickers.&lt;/strong&gt;&lt;/h2&gt;
@@ -55,10 +55,10 @@
     
     <item>
       <title>IT Tapa</title>
-      <link>http://localhost:1313/post/IT-Tapa/</link>
+      <link>http://wout-segers.github.io/post/IT-Tapa/</link>
       <pubDate>Mon, 19 Oct 2015 20:07:19 +0200</pubDate>
       
-      <guid>http://localhost:1313/post/IT-Tapa/</guid>
+      <guid>http://wout-segers.github.io/post/IT-Tapa/</guid>
       <description></description>
     </item>
     
