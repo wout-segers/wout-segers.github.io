@@ -2,63 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systeembeheer on GIP-Wout Segers</title>
-    <link>http://wout-segers.github.io/categories/systeembeheer/</link>
+    <link>http://localhost:1313/categories/systeembeheer/</link>
     <description>Recent content in Systeembeheer on GIP-Wout Segers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2015 18:08:58 +0200</lastBuildDate>
-    <atom:link href="http://wout-segers.github.io/categories/systeembeheer/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Foire aux questions</title>
-      <link>http://wout-segers.github.io/post/FAQ/</link>
-      <pubDate>Thu, 22 Oct 2015 18:08:58 +0200</pubDate>
-      
-      <guid>http://wout-segers.github.io/post/FAQ/</guid>
-      <description>
-
-&lt;h2 id=&#34;voici-la-foire-aux-questions-et-les-réponses-de-l-application-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;&lt;strong&gt;Voici la Foire Aux Questions et les réponses de l&amp;rsquo;application de Plickers.&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;h3 id=&#34;quel-est-l-intérêt-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Quel est l&amp;rsquo;intérêt de Plickers?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;L’intérêt de Plickers est une façon d’apprendre des nouvelles choses. C’est plus facile pour les élèves de rester intéressés.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;h3 id=&#34;pourquoi-est-ce-que-les-réponses-sont-très-petites:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Pourquoi est-ce que les réponses sont très petites?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Les réponses sont petites pour que les élèves ne trichent pas, ainsi c’est chacun pour soi. En plus les élèves ne doivent pas avoir peur de donner une réponse fausse.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;h3 id=&#34;quel-est-le-prix-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Quel est le prix de Plickers?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;C’est gratuit et ça va rester comme ça, mais peut-être on va créer une version “Premium”.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;h3 id=&#34;où-peut-on-obtenir-les-cartes-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Où peut-on obtenir les cartes de Plickers?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;On peut imprimer les cartes sur le site de Plickers. On peut aussi choisir le format des cartes.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;h3 id=&#34;de-quoi-est-ce-qu-on-a-besoin-quand-on-utilise-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;De quoi est-ce qu’on a besoin quand on utilise Plickers ?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;On a besoin d’un ordinateur, d’un smartphone ou d’une tablette numérique, d’une imprimante et d’un projecteur LCD ou d’un SMART board.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
+    <lastBuildDate>Mon, 19 Oct 2015 20:07:19 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/systeembeheer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>IT Tapa</title>
-      <link>http://wout-segers.github.io/post/IT-Tapa/</link>
+      <link>http://localhost:1313/post/IT-Tapa/</link>
       <pubDate>Mon, 19 Oct 2015 20:07:19 +0200</pubDate>
       
-      <guid>http://wout-segers.github.io/post/IT-Tapa/</guid>
+      <guid>http://localhost:1313/post/IT-Tapa/</guid>
       <description></description>
     </item>
     
