@@ -6,8 +6,30 @@
     <description>Recent content in Engels on GIP-Wout Segers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2015 16:47:37 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2016 01:04:02 +0200</lastBuildDate>
     <atom:link href="http://wout-segers.github.io/categories/engels/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Review of a software tool</title>
+      <link>http://wout-segers.github.io/post/Review/</link>
+      <pubDate>Wed, 11 May 2016 01:04:02 +0200</pubDate>
+      
+      <guid>http://wout-segers.github.io/post/Review/</guid>
+      <description>
+
+&lt;h2 id=&#34;review-of-a-hardware-software-or-network-tool-in-the-training-company:34ebcfd1cfa3321b387d6c584f68cba4&#34;&gt;Review of a hardware, software or network tool in the training company&lt;/h2&gt;
+
+&lt;p&gt;In this text I am going to review the QF-Test tool. This tool is used to test the functionality of an application. It’s especially popular among big companies, they use the tool to check if their software application is working like it’s supposed to.&lt;/p&gt;
+
+&lt;p&gt;One of those companies is SwissLife, they have been using the tool for four years now and they are very satisfied with it as they find the tool well structured and easy to use.
+ I agree with Swisslife, because I think it’s a very useful tool. Unlike other test tools, QF-Test is very easy to upgrade to a better version. Another advantage of the tool is that all the different test suites are saved in small and structured files, which creates a clear view of all the work you have already done. The tool  can also collaborate with Java and HTML which are both part of the most commonly used programming languages.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, the downsides are that the testcase files are not encrypted which causes them to occupy more memory. They purposely did this so that the files would be readable. In the two weeks of experience I had with the tool I came across a few bugs. Sometimes the tool can’t recognize certain elements of the application that is getting tested.
+Another downside is that you can’t find much about the tool on the internet so if you get stuck on a problem it’s not that easy to find the answer. QFS, the company who owns QF-Test, found an answer to that problem and they put a tutorial online but I think this tutorial is not detailed enough and most of the time I had to keep trying new things until it finally worked. Finally it’s very important to check if  your application is able to interact with QF-Test because there are applications which can’t interact with QF-Test.&lt;/p&gt;
+
+&lt;p&gt;I absolutely recommend the QF-Test tool to companies that want to make sure their software application is still working properly. You don’t need any education or training to  use it. You just need some programming knowledge and you’re good to go. There are more tools like QF-Test on the market. But what QF-Test distinguishes from the others is the well-structured graphical user interface and the efficiency to do a lot of things in a short time.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Instructiefilmpje Plickers Engels</title>

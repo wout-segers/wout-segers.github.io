@@ -3,18 +3,18 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Software &middot; GIP-Wout Segers</title>
+    <title>Stageverslagen &middot; GIP-Wout Segers</title>
 
     <meta name="description" content="">
 
     <meta name="generator" content="Hugo 0.14" />
     <meta name="twitter:card" content="summary">
     
-    <meta name="twitter:title" content="Software &middot; GIP-Wout Segers">
+    <meta name="twitter:title" content="Stageverslagen &middot; GIP-Wout Segers">
     <meta name="twitter:description" content="">
 
     <meta property="og:type" content="article">
-    <meta property="og:title" content="Software &middot; GIP-Wout Segers">
+    <meta property="og:title" content="Stageverslagen &middot; GIP-Wout Segers">
     <meta property="og:description" content="">
 
     <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
@@ -138,42 +138,6 @@
         <div>
             
             <div class="posts">
-                
-                <h1 class="content-subhead">11 May 2016, 01:34</h1>
-                <section class="post">
-                    <header class="post-header">
-
-                        <a href="http://wout-segers.github.io/post/Huisstijl/" class="post-title">Analyse van huisstijl</a>
-
-                        <p class="post-meta">
-                            
-                            
-                                under 
-                                
-                                <a class="post-category post-category-Software" href="http://wout-segers.github.io//categories/software">Software</a>
-                            
-                        </p>
-                    </header>
-
-                    <div class="post-description">
-                        <p><img src="/post/website.jpg" alt="" />
-</p>
-
-<p>GET N.V. heeft een huisstijl die vooral gebaseerd is op de kleuren rood en zwart, dat zie je ook aan hun website.</p>
-
-<p><img src="/post/logo.jpg" alt="" />
-</p>
-
-<p>Hun logo bestaat uit twee vierkanten. Het grijze vierkant met twee personen die elkaar de hand schudden en een rood vierkant dat eigen is aan de get huisstijl, je ziet het ook op veel plaatsen terug. Ze gebruiken ook veel woordspelingen zoals: “Get the message” of “Get started”.</p>
-
-<p><img src="/post/hoofding.jpg" alt="" />
-</p>
-
-<p>In de hoofding van elke vacature of formele brief staan hun contact gegevens om de twee vestigingen te kunnen bereiken.</p>
-
-                    </div>
-                </section>
-                
                 <h1 class="content-subhead">11 May 2016, 01:10</h1>
                 <section class="post">
                     <header class="post-header">
@@ -190,6 +154,7 @@
                         </p>
                     </header>
 
+                   
                     <div class="post-description">
                         
 
@@ -236,182 +201,9 @@ Wim zei ons dat we dat stukje mochten overslaan en beginnen aan het maken van gr
 <p>Vandaag was de laatste dag en we kregen vanmorgen te horen dat Matthias graag zou hebben dat we een kleine presentatie deden over de voorbije twee weken. Om te laten zien wat we allemaal gedaan hadden in die twee weken en hoe het voor ons verlopen was. We zijn begonnen met het afwerken van alle testen, ook hebben we hier en daar nog een detail aangepast. Daarna zijn we direct begonnen aan onze presentatie die we dan in de namiddag moesten houden voor een paar leden van het GET N.V-team.</p>
 
                     </div>
+                    
                 </section>
-                
-                <h1 class="content-subhead">10 May 2016, 23:51</h1>
-                <section class="post">
-                    <header class="post-header">
-
-                        <a href="http://wout-segers.github.io/post/applicatiemetdatabase/" class="post-title">Applicatie met database</a>
-
-                        <p class="post-meta">
-                            
-                            
-                                under 
-                                
-                                <a class="post-category post-category-Software" href="http://wout-segers.github.io//categories/software">Software</a>
-                            
-                        </p>
-                    </header>
-
-                    <div class="post-description">
-                        
-
-<h2 id="hieronder-de-code-om-de-database-aan-te-maken:df81dda1280bde51363ebba487978f93">Hieronder de code om de database aan te maken.</h2>
-
-<pre><code>create schema gip_taak_08_SegersWout;
- use gip_taak_08_SegersWout;
- 
- create table UserAccount(
-	id int not null auto_increment primary key,
-    naam text not null,
-    email text not null, 
-    age int
-    );
- 
- create table Song(
-	id int not null auto_increment primary key,
-	user_id int not null,
-    song_naam text not null, 
-	artiest text,
-    likes int
-);
- create table Playlist(
-	id int not null auto_increment primary key,
-	user_id int ,
-    song_id int , 
-    playlist_naam text 
-);
- 
-
-
- insert into UserAccount(id, naam, email, age)
-values 
-(1, &quot;Wout&quot;, &quot;wout-segers@hotmail.com&quot;, &quot;18&quot;),
-(2, &quot;Maan&quot;, &quot;manneke.jaan@hotmail.com&quot;, &quot;100&quot;);
-
- insert into Song(id, user_id, song_naam, artiest, likes)
-values
-(1, 1, &quot;Lamborghini&quot;, &quot;KSI&quot;, 150),
-(2, 2, &quot;Het heelal&quot;, &quot;Planeetje007&quot;, 3),
-(3, 2, &quot;Aardbol&quot;, &quot;Planeetje007&quot;, 46);
-
-insert into Playlist(id, user_id, song_id, playlist_naam)
-values
-(1,2,3, &quot;KSI_best_hits&quot;), 
-(2,1,1, &quot;Sfeer&quot;);
-
-SELECT UserAccount.naam, UserAccount.email, UserAccount.age,
-Song.song_naam, Song.artiest, Song.likes, Playlist.playlist_naam
-FROM UserAccount JOIN Song 
-ON UserAccount.id = Song.user_id
-INNER JOIN Playlist ON(Song.id = Playlist.id); 
-</code></pre>
-
-<h2 id="database-diagram:df81dda1280bde51363ebba487978f93">Database diagram</h2>
-
-<p><img src="/post/database.png" alt="" />
-</p>
-
-                    </div>
-                </section>
-                
-                <h1 class="content-subhead">22 Oct 2015, 20:26</h1>
-                <section class="post">
-                    <header class="post-header">
-
-                        <a href="http://wout-segers.github.io/post/Workflow/" class="post-title">Workflow: Hugo vs WordPress</a>
-
-                        <p class="post-meta">
-                            
-                            
-                                under 
-                                
-                                <a class="post-category post-category-Software" href="http://wout-segers.github.io//categories/software">Software</a>
-                            
-                        </p>
-                    </header>
-
-                    <div class="post-description">
-                        
-
-<h2 id="wordpress:fbd7f50684705fd66be25216c78b3b2e">Wordpress</h2>
-
-<h3 id="voordelen:fbd7f50684705fd66be25216c78b3b2e">Voordelen:</h3>
-
-<ul>
-<li>Het is een open source programma dus je kan je code baseren op anderen hun code.</li>
-<li>Het is makkelijk om te gebruiken, je kan een hele site maken met alleen maar muisklikken zonder zelf code te hoeven schrijven.</li>
-<li>Je kan van een basissite beginne en dan je eigen onderdelen toevoegen.</li>
-</ul>
-
-<h3 id="nadelen:fbd7f50684705fd66be25216c78b3b2e">Nadelen:</h3>
-
-<ul>
-<li>Omdat het een open source programma is is het ook makkelijker voor hackers om beveiligingslekken te vinden.</li>
-<li>Je kan het niet gebruiken om geavanceerde sites te maken.</li>
-<li>Je hebt niet veel variatie tussen de verschillende sites.</li>
-</ul>
-
-<h2 id="hugo:fbd7f50684705fd66be25216c78b3b2e">Hugo</h2>
-
-<h3 id="voordelen-1:fbd7f50684705fd66be25216c78b3b2e">Voordelen:</h3>
-
-<ul>
-<li>Omdat de code is onderverdeeld in verschillende mappen is het heel overzichtelijk.</li>
-<li>Het template-systeem zorgt ervoor dat je niet alle code zelf moet schrijven maar dat je toch volledige controle hebt over wat je doet.</li>
-<li>Je kunt je baseren op bestaande themes en vanaf daar beginnen aanpassen.</li>
-</ul>
-
-<h3 id="nadelen-1:fbd7f50684705fd66be25216c78b3b2e">Nadelen:</h3>
-
-<ul>
-<li>Moeilijk voor beginners om het mappensysteem te begrijpen.</li>
-<li>Er is niet veel over te vinden op het internet.</li>
-<li>Moeilijk om zelf code te sschrijven als je van een theme begint.</li>
-</ul>
-
-<h2 id="directory-structuur:fbd7f50684705fd66be25216c78b3b2e">Directory-structuur:</h2>
-
-<p>De code van mijn Hugo site is onderverdeeld in verschillende mappen en bestanden om het overzichtelijk te houden.
-Hieronder een opsomming van mijn mappen:</p>
-
-<ul>
-<li>Content</li>
-<li>Layouts</li>
-<li>Static</li>
-<li>En nog een config.toml bestand</li>
-</ul>
-
-<h4 id="content:fbd7f50684705fd66be25216c78b3b2e">Content</h4>
-
-<p>In deze map zitten al mijn posts. Dat zijn Markdown bestanden die ik zelf geschreven heb. Deze bestanden zullen dan ingedeeld worden per category op mijn site.</p>
-
-<h4 id="layouts:fbd7f50684705fd66be25216c78b3b2e">Layouts</h4>
-
-<p>In de Layouts map zitten al de bestanden die ik heb gekopiëerd van het thema purehugo. In deze bestanden heb ik het meeste veranderd. Ik heb extra code toegevoegd in de sidebar die zorgt voor een hoofdmenu op de sidebar van mijn site.</p>
-
-<h4 id="static:fbd7f50684705fd66be25216c78b3b2e">Static</h4>
-
-<p>In de Static map zit al de css en de javascript van de site. Aan de javascript heb ik zelf niets veranderd maar in de css-file heb ik zelf nog veel code extra bijgeschreven om wat van de opmaak van de site te veranderen.</p>
-
-<h4 id="config-toml:fbd7f50684705fd66be25216c78b3b2e">Config.toml</h4>
-
-<p>In dit bestand wordt de site geconfigureerd. Hier staan aanwijzigingen in voor Hugo hoe de site moet worden opgebouwd.</p>
-
-<h2 id="mijn-keuze:fbd7f50684705fd66be25216c78b3b2e">Mijn keuze</h2>
-
-<p>Ik verkies hugo boven WordPress. Ookal vond ik het heel moeilijk om te beginnen met hugo om wille van de mappenindeling verkies ik het boven WordPress.
- WordPress is veel gemakkelijker om te gebruiken maar je hebt niet zo veel mogelijkheden. Alle sites die met WordPress worden gemaakt, lijken op een of andere manier op elkaar.<br />
- Ook heb je in hugo meer vrijheid je kan kiezen wat je doet: van een theme beginnen, zelf een theme maken, zelf templates maken&hellip;<br />
- Tenslotte werkt hugo ook goed samen met GitLab, je commits laten heel goed zien wat je de laatste keer allemaal hebt aangepast.</p>
-
-                    </div>
-                </section>
-                
             </div>
-            
-
             <div class="footer">
     <div class="pure-menu pure-menu-horizontal pure-menu-open">
         
@@ -421,6 +213,7 @@ Hieronder een opsomming van mijn mappen:</p>
         </div>
     </div>
 </div>
+
 
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
