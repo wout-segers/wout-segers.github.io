@@ -2,19 +2,230 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIP-Wout Segers</title>
-    <link>http://wout-segers.github.io/</link>
+    <link>http://uweurl/</link>
     <description>Recent content on GIP-Wout Segers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2015 16:53:35 +0100</lastBuildDate>
-    <atom:link href="http://wout-segers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2016 01:34:39 +0200</lastBuildDate>
+    <atom:link href="http://uweurl/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Analyse van huisstijl</title>
+      <link>http://uweurl/post/Huisstijl/</link>
+      <pubDate>Wed, 11 May 2016 01:34:39 +0200</pubDate>
+      
+      <guid>http://uweurl/post/Huisstijl/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://uweurl/post/website.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;GET N.V. heeft een huisstijl die vooral gebaseerd is op de kleuren rood en zwart, dat zie je ook aan hun website.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://uweurl/post/logo.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Hun logo bestaat uit twee vierkanten. Het grijze vierkant met twee personen die elkaar de hand schudden en een rood vierkant dat eigen is aan de get huisstijl, je ziet het ook op veel plaatsen terug. Ze gebruiken ook veel woordspelingen zoals: “Get the message” of “Get started”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://uweurl/post/hoofding.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;In de hoofding van elke vacature of formele brief staan hun contact gegevens om de twee vestigingen te kunnen bereiken.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stageverslagen</title>
+      <link>http://uweurl/post/Stageverslagen/</link>
+      <pubDate>Wed, 11 May 2016 01:10:39 +0200</pubDate>
+      
+      <guid>http://uweurl/post/Stageverslagen/</guid>
+      <description>
+
+&lt;h2 id=&#34;verslag-11-01:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Verslag 11-01&lt;/h2&gt;
+
+&lt;p&gt;Om da dag te beginnen heeft Matthias ons eerst een korte rondleiding gegeven. Daarna heeft hij ons op zijn bureau wat uitleg gegeven over reguliere expressies omdat we dit zullen nodig hebben om onze testen te schrijven. Dan mochten we zelf aan de slag met de QF-Test tool. Onze opdracht was om lege velden te vullen met testgegevens. Alles ging vlot behalve het laatste uur waren we aan het sukkelen met de IF-syntax.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-12-01:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Verslag 12-01&lt;/h2&gt;
+
+&lt;p&gt;Gisteren zaten we vast aan een if, we kregen dit niet voor vijf uur opgelost dus dit moesten we deze morgen als eerste aanpakken.
+Na een dik halfuur vonden dan eindelijk de oplossing en vanaf dan ging het vrij vlot tot we een error(modal dialog) kregen die we niet konden oplossen.
+Wim zei ons dat we dat stukje mochten overslaan en beginnen aan het maken van groepen. Dit ging ook wel vlot, hier hadden geen problemen mee. Morgen moeten we het stukje van de groepen nog afwerken en verfijnen. Dan kunnen we eventueel aan onze oefeningen van reguliere expressies beginnen.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-13-01:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Verslag 13-01&lt;/h2&gt;
+
+&lt;p&gt;Vandaag hebben aan de test van CreateGroups verder gewerkt. Eerst moesten we nog kleine details aanpassen, dan hebben we al onze code overzichtelijk gesorteerd. Dan hebben we nog een probleem in de test van CreateFreeFields opgelost, dat was de modal dialog error van gisteren. Nu zijn ook onze eerste twee testen zo goed als afgewerkt. Morgen zullen we waarschijnlijk een nieuwe opdracht krijgen van Wim of we kunnen ook aan de reguliere expressies werken want daar hadden we vandaag geen tijd voor.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-14-01:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Verslag 14-01&lt;/h2&gt;
+
+&lt;p&gt;Vandaag hebben we onze twee grote testen(CreateFreeFields en CreateGroups) afgewerkt. Dan zijn we begonnen aan de taak over reguliere expressies, de eerste oefeningen gingen allemaal heel vlot en we hadden alles ook van de eerste keer juist. Alleen met de laatste oefening hadden we veel last, we waren vergeten dat als je een groep maakt deze automatisch wordt weggeschreven. Nadat we het antwoord hadden gevonden met hulp van Matthias heeft Wim ons een opdracht gegeven om de lijst van bezoekers aan te vullen, maar dan bleek dat deze al voorgemaakt was. Nu zijn we bezig met het met een test te schrijven die bezoeken aanmaakt en daar gaan we ook morgen aan verder werken.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-15-01:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;verslag 15-01&lt;/h2&gt;
+
+&lt;p&gt;Vandaag hebben we verder gewerkt aan de test om bezoeken aan te vullen(CreateVisits). Deze test was gelijkaardig op te lossen aan de twee tests die we al hadden geschreven. Het enige verschil was dat je voor deze test een script nodig had om de input van een uur gelijk te stellen aan de huidige tijd. We hebben geprobeerd om dit zelf te schrijven maar dit is ons dan niet gelukt. Wim heeft ons  het script gegeven, we hebben hier dan wat mee gespeeld om nog andere scriptjes te schrijven die hierop gebaseerd waren en die de huidige tijd plus vijf dagen returned. Maandag gaan we ook nog een script schrijven dat hetzelfde doet maar dan me&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-18-01:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Verslag 18-01&lt;/h2&gt;
+
+&lt;p&gt;Vandaag hebben we een nieuwe grote opdracht gekregen. We moesten met de tweede applicatie(PrimeVisit) aan het werk. Onze opdracht was om bezoeken te simuleren in opzicht van een klant of bezoeker, dit ging allemaal vlot en we hebben hier geen grote problemen ondervonden. Daarna moesten we terug met PrimeTime aan het werk. We moesten de VisitorFields vullen met voorgemaakte gegevens.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-19-01:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Verslag 19-01&lt;/h2&gt;
+
+&lt;p&gt;Gisteren waren we nog maar net begonnen aan het vullen van de bezoekers velden dus we konden hier direct aan verder werken. Dit was wel een grote test. We kregen een aantal keer een error dat er een knop niet gevonden kon worden. We dachten eerst dat dit aan ons lag maar toch kregen we het niet opgelost en dus vroegen we hulp Wim kon hier ook geen oplossing voor vinden. Later bleek dan dat het een fout was in QF-Test we konden dus niets anders doen dan het gewoon negeren.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-20-01:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Verslag 20-01&lt;/h2&gt;
+
+&lt;p&gt;Vandaag zijn we begonnen met het afwerken van onze test van vorige dagen, hier hebben we geen problemen meer mee ondervonden. In de namiddag kregen we de opdracht om leveringen en bezoeken te simuleren. Hierbij moesten we het veld van een datum vullen maar we moesten zorgen dat die datum altijd gelijk bleef aan de huidige datum. Dit moesten we dus met een groovy script doen maar we wisten niet echt hoe we hieraan moesten beginnen. We hebben veel output gekregen maar nooit echt degene die we zochten dus hier moeten we morgen zeker en vast eerst mee voort gaan.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-21-01:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Verslag 21-01&lt;/h2&gt;
+
+&lt;p&gt;We hebben vandaag nog langen zitten zwoegen aan ons script maar uiteindeijk is het ons dan toch gelukt. In de namiddag moesten we een test schrijven die de gebruiker vanzelf uitlogged(UserLogout) hier hadden we geen problemen mee en dan hebben we om de dag af te sluiten al de voorheen gemaakte testen geordend en een toepasselijke naam gegeven.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-22-02:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Verslag 22-02&lt;/h2&gt;
+
+&lt;p&gt;Vandaag was de laatste dag en we kregen vanmorgen te horen dat Matthias graag zou hebben dat we een kleine presentatie deden over de voorbije twee weken. Om te laten zien wat we allemaal gedaan hadden in die twee weken en hoe het voor ons verlopen was. We zijn begonnen met het afwerken van alle testen, ook hebben we hier en daar nog een detail aangepast. Daarna zijn we direct begonnen aan onze presentatie die we dan in de namiddag moesten houden voor een paar leden van het GET N.V-team.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of a software tool</title>
+      <link>http://uweurl/post/Review/</link>
+      <pubDate>Wed, 11 May 2016 01:04:02 +0200</pubDate>
+      
+      <guid>http://uweurl/post/Review/</guid>
+      <description>
+
+&lt;h2 id=&#34;review-of-a-hardware-software-or-network-tool-in-the-training-company:34ebcfd1cfa3321b387d6c584f68cba4&#34;&gt;Review of a hardware, software or network tool in the training company&lt;/h2&gt;
+
+&lt;p&gt;In this text I am going to review the QF-Test tool. This tool is used to test the functionality of an application. It’s especially popular among big companies, they use the tool to check if their software application is working like it’s supposed to.&lt;/p&gt;
+
+&lt;p&gt;One of those companies is SwissLife, they have been using the tool for four years now and they are very satisfied with it as they find the tool well structured and easy to use.
+ I agree with Swisslife, because I think it’s a very useful tool. Unlike other test tools, QF-Test is very easy to upgrade to a better version. Another advantage of the tool is that all the different test suites are saved in small and structured files, which creates a clear view of all the work you have already done. The tool  can also collaborate with Java and HTML which are both part of the most commonly used programming languages.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, the downsides are that the testcase files are not encrypted which causes them to occupy more memory. They purposely did this so that the files would be readable. In the two weeks of experience I had with the tool I came across a few bugs. Sometimes the tool can’t recognize certain elements of the application that is getting tested.
+Another downside is that you can’t find much about the tool on the internet so if you get stuck on a problem it’s not that easy to find the answer. QFS, the company who owns QF-Test, found an answer to that problem and they put a tutorial online but I think this tutorial is not detailed enough and most of the time I had to keep trying new things until it finally worked. Finally it’s very important to check if  your application is able to interact with QF-Test because there are applications which can’t interact with QF-Test.&lt;/p&gt;
+
+&lt;p&gt;I absolutely recommend the QF-Test tool to companies that want to make sure their software application is still working properly. You don’t need any education or training to  use it. You just need some programming knowledge and you’re good to go. There are more tools like QF-Test on the market. But what QF-Test distinguishes from the others is the well-structured graphical user interface and the efficiency to do a lot of things in a short time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un reportage photos</title>
+      <link>http://uweurl/post/Reportage/</link>
+      <pubDate>Wed, 11 May 2016 00:48:54 +0200</pubDate>
+      
+      <guid>http://uweurl/post/Reportage/</guid>
+      <description>&lt;iframe id=&#34;iframe_container&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34; width=&#34;550&#34; height=&#34;400&#34; src=&#34;https://prezi.com/embed/q8bi6jvr1ibx/?bgcolor=ffffff&amp;amp;lock_to_path=1&amp;amp;autoplay=0&amp;amp;autohide_ctrls=0&amp;amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0dDV4OHBFZHBYWDNKUnpJSTVQMVdqdlhnPT0&amp;amp;landing_sign=WMygTs3j0Y6BVzZIriaWF5Cweo13vNnE_zwM0xto8iM&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Casestudy</title>
+      <link>http://uweurl/post/Casestudy/</link>
+      <pubDate>Wed, 11 May 2016 00:18:33 +0200</pubDate>
+      
+      <guid>http://uweurl/post/Casestudy/</guid>
+      <description>
+
+&lt;h2 id=&#34;onderwerp:765e8f205c1a131d4910738e42acb877&#34;&gt;Onderwerp&lt;/h2&gt;
+
+&lt;p&gt;QF-test is een tool om via geautomatiseerde testen, Java en web applicaties te testen.
+Het wordt vooral gebruikt door bedrijven om hun Software applicaties te testen op fouten.
+Ook mijn stagebedrijf, GET N.V., gebuikt deze tool om hun applicaties te testen. GET doet constant aanpassingen aan hun applicaties en door al deze testen elke nacht te laten lopen weten ze of alles nog goed werkt. Wij hebben ook zelf een paar fouten gevonden in PrimeTime, de applicatie van GET N.V.. Er zijn nog veel gelijkaardige tools op de makt. Maar toch hebben ze voor QF-Test gekozen omdat deze tool een GUI heeft en de testen zijn geautomatiseerd en dat bespaard veel werk.&lt;/p&gt;
+
+&lt;h2 id=&#34;bevindingen:765e8f205c1a131d4910738e42acb877&#34;&gt;Bevindingen&lt;/h2&gt;
+
+&lt;p&gt;Als je er net mee begint te werken is het een beetje zoeken want je weet niet wat de functies van alle knoppen zijn. Eens je daarmee weg bent is het vrij aangenaam werken aangezien de tool voorzien is van een gebruiksvriendelijke GUI, is het meeste werk gebeurd met enkele klikken van de muis.
+Maar het was niet altijd zo simpel, soms kwamen we problemen tegen die niet opgelost konden worden met de door de tool voorziene mogelijkheden. De enige oplossing was dan om zelf een script te schrijven dat dit wel kon. Aangezien deze scriptjes in groovy moesten geschreven worden was dat niet altijd even makkelijk voor ons want we hadden voorheen we daar aan de slag gingen geen enkele kennis van deze programmeertaal.&lt;/p&gt;
+
+&lt;h2 id=&#34;eigen-ondervinding:765e8f205c1a131d4910738e42acb877&#34;&gt;Eigen ondervinding&lt;/h2&gt;
+
+&lt;p&gt;Ik persoonlijk vind het een heel aangename tool om mee te werken. Zoals reeds gezegd is het in het begin een beetje knoeien maar na twee dagen ben je er zeker en vast mee weg.
+Er zijn ook een paar handige functies voorzien zoals bijvoorbeeld loop-functies. Zo kan je herhaaldelijk dezelfde acties uitvoeren en dat bespaard veel werk. Een nadeel van de tool is dat de scriptjes in groovy of jython geschreven moeten worden. Dat zijn programmeertalen die beginnende programmeurs hoogstwaarschijnlijk nog niet kennen en dat kan je al wel eens vertragen bij je werk.&lt;/p&gt;
+
+&lt;h2 id=&#34;foto-s:765e8f205c1a131d4910738e42acb877&#34;&gt;Foto&amp;rsquo;s&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://uweurl/post/screen_stage.png&#34; alt=&#34;minipic&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Hier ziet u links de QF-Test tool en rechts de applicaties(PrimeTime) die ermee getest werd. Op deze foto kun je duidelijk de GUI van de tool zien.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://uweurl/post/script_stage.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Dit is een voorbeeld van een script dat we hebben moeten schrijven. De bedoeling hiervan was om altijd de huidige tijd als output te krijgen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applicatie met database</title>
+      <link>http://uweurl/post/applicatiemetdatabase/</link>
+      <pubDate>Tue, 10 May 2016 23:51:54 +0200</pubDate>
+      
+      <guid>http://uweurl/post/applicatiemetdatabase/</guid>
+      <description>
+
+&lt;h2 id=&#34;hieronder-de-code-om-de-database-aan-te-maken:df81dda1280bde51363ebba487978f93&#34;&gt;Hieronder de code om de database aan te maken.&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;create schema gip_taak_08_SegersWout;
+ use gip_taak_08_SegersWout;
+ 
+ create table UserAccount(
+	id int not null auto_increment primary key,
+    naam text not null,
+    email text not null, 
+    age int
+    );
+ 
+ create table Song(
+	id int not null auto_increment primary key,
+	user_id int not null,
+    song_naam text not null, 
+	artiest text,
+    likes int
+);
+ create table Playlist(
+	id int not null auto_increment primary key,
+	user_id int ,
+    song_id int , 
+    playlist_naam text 
+);
+ 
+
+
+ insert into UserAccount(id, naam, email, age)
+values 
+(1, &amp;quot;Wout&amp;quot;, &amp;quot;wout-segers@hotmail.com&amp;quot;, &amp;quot;18&amp;quot;),
+(2, &amp;quot;Maan&amp;quot;, &amp;quot;manneke.jaan@hotmail.com&amp;quot;, &amp;quot;100&amp;quot;);
+
+ insert into Song(id, user_id, song_naam, artiest, likes)
+values
+(1, 1, &amp;quot;Lamborghini&amp;quot;, &amp;quot;KSI&amp;quot;, 150),
+(2, 2, &amp;quot;Het heelal&amp;quot;, &amp;quot;Planeetje007&amp;quot;, 3),
+(3, 2, &amp;quot;Aardbol&amp;quot;, &amp;quot;Planeetje007&amp;quot;, 46);
+
+insert into Playlist(id, user_id, song_id, playlist_naam)
+values
+(1,2,3, &amp;quot;KSI_best_hits&amp;quot;), 
+(2,1,1, &amp;quot;Sfeer&amp;quot;);
+
+SELECT UserAccount.naam, UserAccount.email, UserAccount.age,
+Song.song_naam, Song.artiest, Song.likes, Playlist.playlist_naam
+FROM UserAccount JOIN Song 
+ON UserAccount.id = Song.user_id
+INNER JOIN Playlist ON(Song.id = Playlist.id); 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;database-diagram:df81dda1280bde51363ebba487978f93&#34;&gt;Database diagram&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://uweurl/post/database.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IT Tapa Midddagsessie</title>
-      <link>http://wout-segers.github.io/post/IT-TapaMidddagsessie/</link>
+      <link>http://uweurl/post/IT-TapaMidddagsessie/</link>
       <pubDate>Mon, 07 Dec 2015 16:53:35 +0100</pubDate>
       
-      <guid>http://wout-segers.github.io/post/IT-TapaMidddagsessie/</guid>
+      <guid>http://uweurl/post/IT-TapaMidddagsessie/</guid>
       <description>&lt;p&gt;In onze middagsessie moesten Tom en ik de tool Plickers voorstellen. Plickers is een tool waarmee je een quiz kunt opstellen.&lt;br /&gt;
 Het speciale aan deze quiz is dat je moet antwoorden aan de hand van QR-codes. Elke deelnemer krijgt een eigen kaart met een QR-code op en aan de hand van hoe je de kaart houdt geef je een antwoord op de quizvraag.&lt;/p&gt;
 
@@ -29,30 +240,30 @@ Het speciale aan deze quiz is dat je moet antwoorden aan de hand van QR-codes. E
     
     <item>
       <title>Instructiefilmpje Plickers Engels</title>
-      <link>http://wout-segers.github.io/post/InstructiefilmpjePlickersEngels/</link>
+      <link>http://uweurl/post/InstructiefilmpjePlickersEngels/</link>
       <pubDate>Mon, 07 Dec 2015 16:47:37 +0100</pubDate>
       
-      <guid>http://wout-segers.github.io/post/InstructiefilmpjePlickersEngels/</guid>
+      <guid>http://uweurl/post/InstructiefilmpjePlickersEngels/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kyP6U8SHb90&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Instructiefilmpje Plickers</title>
-      <link>http://wout-segers.github.io/post/InstructiefilmpjePlickers/</link>
+      <link>http://uweurl/post/InstructiefilmpjePlickers/</link>
       <pubDate>Mon, 07 Dec 2015 16:42:21 +0100</pubDate>
       
-      <guid>http://wout-segers.github.io/post/InstructiefilmpjePlickers/</guid>
+      <guid>http://uweurl/post/InstructiefilmpjePlickers/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_7OVpWjr8lE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Workflow: Hugo vs WordPress</title>
-      <link>http://wout-segers.github.io/post/Workflow/</link>
+      <link>http://uweurl/post/Workflow/</link>
       <pubDate>Thu, 22 Oct 2015 20:26:08 +0200</pubDate>
       
-      <guid>http://wout-segers.github.io/post/Workflow/</guid>
+      <guid>http://uweurl/post/Workflow/</guid>
       <description>
 
 &lt;h2 id=&#34;wordpress:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Wordpress&lt;/h2&gt;
@@ -130,10 +341,10 @@ Hieronder een opsomming van mijn mappen:&lt;/p&gt;
     
     <item>
       <title>IT autobiography</title>
-      <link>http://wout-segers.github.io/post/ITautobiography/</link>
+      <link>http://uweurl/post/ITautobiography/</link>
       <pubDate>Thu, 22 Oct 2015 18:31:40 +0200</pubDate>
       
-      <guid>http://wout-segers.github.io/post/ITautobiography/</guid>
+      <guid>http://uweurl/post/ITautobiography/</guid>
       <description>&lt;p&gt;My name is Wout Segers and I am seventeen years old. I like to spend much time gaming. I am a first tier League of Legends player and I am also known to be a minecraft-god. Right now I am studying IT management at the Immaculata Institute. This is my last year of high school, last year I studied IT management as well. That was the first time I learned something new about IT. I had had some lessons IT at Sint-Jan but we only learned some basic things.&lt;/p&gt;
 
 &lt;p&gt;The first time I came in contact with IT was very long ago. I was at family reunion and my uncle had brought a laptop with him. I was five years old I think and at that time laptops where very rare I never saw something like that. He couldn’t do much with it but he showed me how he played chess with it and I thought it was amazing. When I was six years old , I got a Gameboy Advance for my birthday. My parents thought I would get addicted to it so they made a rule that I could only play one hour a day. Two years later I got my PlayStation Portable and then I really got into gaming. It was then that my father bought a new computer. I really enjoyed playing browser games on the “spele.nl” site. Now at this time I am really enjoying minecraft and League of Legends. Sometimes I am fed up with playing games and then I just go on YouTube and watch some videos.&lt;/p&gt;
@@ -149,10 +360,10 @@ Hieronder een opsomming van mijn mappen:&lt;/p&gt;
     
     <item>
       <title>Foire aux questions</title>
-      <link>http://wout-segers.github.io/post/FAQ/</link>
+      <link>http://uweurl/post/FAQ/</link>
       <pubDate>Thu, 22 Oct 2015 18:08:58 +0200</pubDate>
       
-      <guid>http://wout-segers.github.io/post/FAQ/</guid>
+      <guid>http://uweurl/post/FAQ/</guid>
       <description>
 
 &lt;h2 id=&#34;voici-la-foire-aux-questions-et-les-réponses-de-l-application-de-plickers:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;&lt;strong&gt;Voici la Foire Aux Questions et les réponses de l&amp;rsquo;application de Plickers.&lt;/strong&gt;&lt;/h2&gt;

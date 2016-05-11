@@ -2,20 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systeembeheer on GIP-Wout Segers</title>
-    <link>http://localhost:1313/categories/systeembeheer/</link>
+    <link>http://uweurl/categories/systeembeheer/</link>
     <description>Recent content in Systeembeheer on GIP-Wout Segers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2015 20:07:19 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/systeembeheer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2016 00:18:33 +0200</lastBuildDate>
+    <atom:link href="http://uweurl/categories/systeembeheer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>IT Tapa</title>
-      <link>http://localhost:1313/post/IT-Tapa/</link>
-      <pubDate>Mon, 19 Oct 2015 20:07:19 +0200</pubDate>
+      <title>Casestudy</title>
+      <link>http://uweurl/post/Casestudy/</link>
+      <pubDate>Wed, 11 May 2016 00:18:33 +0200</pubDate>
       
-      <guid>http://localhost:1313/post/IT-Tapa/</guid>
-      <description></description>
+      <guid>http://uweurl/post/Casestudy/</guid>
+      <description>
+
+&lt;h2 id=&#34;onderwerp:765e8f205c1a131d4910738e42acb877&#34;&gt;Onderwerp&lt;/h2&gt;
+
+&lt;p&gt;QF-test is een tool om via geautomatiseerde testen, Java en web applicaties te testen.
+Het wordt vooral gebruikt door bedrijven om hun Software applicaties te testen op fouten.
+Ook mijn stagebedrijf, GET N.V., gebuikt deze tool om hun applicaties te testen. GET doet constant aanpassingen aan hun applicaties en door al deze testen elke nacht te laten lopen weten ze of alles nog goed werkt. Wij hebben ook zelf een paar fouten gevonden in PrimeTime, de applicatie van GET N.V.. Er zijn nog veel gelijkaardige tools op de makt. Maar toch hebben ze voor QF-Test gekozen omdat deze tool een GUI heeft en de testen zijn geautomatiseerd en dat bespaard veel werk.&lt;/p&gt;
+
+&lt;h2 id=&#34;bevindingen:765e8f205c1a131d4910738e42acb877&#34;&gt;Bevindingen&lt;/h2&gt;
+
+&lt;p&gt;Als je er net mee begint te werken is het een beetje zoeken want je weet niet wat de functies van alle knoppen zijn. Eens je daarmee weg bent is het vrij aangenaam werken aangezien de tool voorzien is van een gebruiksvriendelijke GUI, is het meeste werk gebeurd met enkele klikken van de muis.
+Maar het was niet altijd zo simpel, soms kwamen we problemen tegen die niet opgelost konden worden met de door de tool voorziene mogelijkheden. De enige oplossing was dan om zelf een script te schrijven dat dit wel kon. Aangezien deze scriptjes in groovy moesten geschreven worden was dat niet altijd even makkelijk voor ons want we hadden voorheen we daar aan de slag gingen geen enkele kennis van deze programmeertaal.&lt;/p&gt;
+
+&lt;h2 id=&#34;eigen-ondervinding:765e8f205c1a131d4910738e42acb877&#34;&gt;Eigen ondervinding&lt;/h2&gt;
+
+&lt;p&gt;Ik persoonlijk vind het een heel aangename tool om mee te werken. Zoals reeds gezegd is het in het begin een beetje knoeien maar na twee dagen ben je er zeker en vast mee weg.
+Er zijn ook een paar handige functies voorzien zoals bijvoorbeeld loop-functies. Zo kan je herhaaldelijk dezelfde acties uitvoeren en dat bespaard veel werk. Een nadeel van de tool is dat de scriptjes in groovy of jython geschreven moeten worden. Dat zijn programmeertalen die beginnende programmeurs hoogstwaarschijnlijk nog niet kennen en dat kan je al wel eens vertragen bij je werk.&lt;/p&gt;
+
+&lt;h2 id=&#34;foto-s:765e8f205c1a131d4910738e42acb877&#34;&gt;Foto&amp;rsquo;s&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://uweurl/post/screen_stage.png&#34; alt=&#34;minipic&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Hier ziet u links de QF-Test tool en rechts de applicaties(PrimeTime) die ermee getest werd. Op deze foto kun je duidelijk de GUI van de tool zien.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://uweurl/post/script_stage.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Dit is een voorbeeld van een script dat we hebben moeten schrijven. De bedoeling hiervan was om altijd de huidige tijd als output te krijgen.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -2,38 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wout-segers.github.io/</loc>
-    <lastmod>2015-12-07T16:53:35+01:00</lastmod>
+    <loc>http://uweurl/</loc>
+    <lastmod>2016-05-11T01:34:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://wout-segers.github.io/post/IT-TapaMidddagsessie/</loc>
+    <loc>http://uweurl/post/Huisstijl/</loc>
+    <lastmod>2016-05-11T01:34:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uweurl/post/Stageverslagen/</loc>
+    <lastmod>2016-05-11T01:10:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uweurl/post/Review/</loc>
+    <lastmod>2016-05-11T01:04:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uweurl/post/Reportage/</loc>
+    <lastmod>2016-05-11T00:48:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uweurl/post/Casestudy/</loc>
+    <lastmod>2016-05-11T00:18:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uweurl/post/applicatiemetdatabase/</loc>
+    <lastmod>2016-05-10T23:51:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://uweurl/post/IT-TapaMidddagsessie/</loc>
     <lastmod>2015-12-07T16:53:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://wout-segers.github.io/post/InstructiefilmpjePlickersEngels/</loc>
+    <loc>http://uweurl/post/InstructiefilmpjePlickersEngels/</loc>
     <lastmod>2015-12-07T16:47:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://wout-segers.github.io/post/InstructiefilmpjePlickers/</loc>
+    <loc>http://uweurl/post/InstructiefilmpjePlickers/</loc>
     <lastmod>2015-12-07T16:42:21+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://wout-segers.github.io/post/Workflow/</loc>
+    <loc>http://uweurl/post/Workflow/</loc>
     <lastmod>2015-10-22T20:26:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://wout-segers.github.io/post/ITautobiography/</loc>
+    <loc>http://uweurl/post/ITautobiography/</loc>
     <lastmod>2015-10-22T18:31:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://wout-segers.github.io/post/FAQ/</loc>
+    <loc>http://uweurl/post/FAQ/</loc>
     <lastmod>2015-10-22T18:08:58+02:00</lastmod>
   </url>
   
