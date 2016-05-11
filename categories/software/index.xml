@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on GIP-Wout Segers</title>
-    <link>http://uweurl/categories/software/</link>
+    <link>http://wout-segers.github.io/categories/software/</link>
     <description>Recent content in Software on GIP-Wout Segers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 May 2016 01:34:39 +0200</lastBuildDate>
-    <atom:link href="http://uweurl/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wout-segers.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Analyse van huisstijl</title>
-      <link>http://uweurl/post/Huisstijl/</link>
+      <link>http://wout-segers.github.io/post/Huisstijl/</link>
       <pubDate>Wed, 11 May 2016 01:34:39 +0200</pubDate>
       
-      <guid>http://uweurl/post/Huisstijl/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://uweurl/post/website.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>http://wout-segers.github.io/post/Huisstijl/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://wout-segers.github.io/post/website.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;GET N.V. heeft een huisstijl die vooral gebaseerd is op de kleuren rood en zwart, dat zie je ook aan hun website.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://uweurl/post/logo.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://wout-segers.github.io/post/logo.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Hun logo bestaat uit twee vierkanten. Het grijze vierkant met twee personen die elkaar de hand schudden en een rood vierkant dat eigen is aan de get huisstijl, je ziet het ook op veel plaatsen terug. Ze gebruiken ook veel woordspelingen zoals: “Get the message” of “Get started”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://uweurl/post/hoofding.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://wout-segers.github.io/post/hoofding.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;In de hoofding van elke vacature of formele brief staan hun contact gegevens om de twee vestigingen te kunnen bereiken.&lt;/p&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>Stageverslagen</title>
-      <link>http://uweurl/post/Stageverslagen/</link>
+      <link>http://wout-segers.github.io/post/Stageverslagen/</link>
       <pubDate>Wed, 11 May 2016 01:10:39 +0200</pubDate>
       
-      <guid>http://uweurl/post/Stageverslagen/</guid>
+      <guid>http://wout-segers.github.io/post/Stageverslagen/</guid>
       <description>
 
 &lt;h2 id=&#34;verslag-11-01:269ae419ea9f3e340d0deb3d4219f7cf&#34;&gt;Verslag 11-01&lt;/h2&gt;
@@ -86,10 +86,10 @@ Wim zei ons dat we dat stukje mochten overslaan en beginnen aan het maken van gr
     
     <item>
       <title>Applicatie met database</title>
-      <link>http://uweurl/post/applicatiemetdatabase/</link>
+      <link>http://wout-segers.github.io/post/applicatiemetdatabase/</link>
       <pubDate>Tue, 10 May 2016 23:51:54 +0200</pubDate>
       
-      <guid>http://uweurl/post/applicatiemetdatabase/</guid>
+      <guid>http://wout-segers.github.io/post/applicatiemetdatabase/</guid>
       <description>
 
 &lt;h2 id=&#34;hieronder-de-code-om-de-database-aan-te-maken:df81dda1280bde51363ebba487978f93&#34;&gt;Hieronder de code om de database aan te maken.&lt;/h2&gt;
@@ -145,17 +145,17 @@ INNER JOIN Playlist ON(Song.id = Playlist.id);
 
 &lt;h2 id=&#34;database-diagram:df81dda1280bde51363ebba487978f93&#34;&gt;Database diagram&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://uweurl/post/database.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://wout-segers.github.io/post/database.png&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Workflow: Hugo vs WordPress</title>
-      <link>http://uweurl/post/Workflow/</link>
+      <link>http://wout-segers.github.io/post/Workflow/</link>
       <pubDate>Thu, 22 Oct 2015 20:26:08 +0200</pubDate>
       
-      <guid>http://uweurl/post/Workflow/</guid>
+      <guid>http://wout-segers.github.io/post/Workflow/</guid>
       <description>
 
 &lt;h2 id=&#34;wordpress:fbd7f50684705fd66be25216c78b3b2e&#34;&gt;Wordpress&lt;/h2&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systeembeheer on GIP-Wout Segers</title>
-    <link>http://uweurl/categories/systeembeheer/</link>
+    <link>http://wout-segers.github.io/categories/systeembeheer/</link>
     <description>Recent content in Systeembeheer on GIP-Wout Segers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 May 2016 00:18:33 +0200</lastBuildDate>
-    <atom:link href="http://uweurl/categories/systeembeheer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wout-segers.github.io/categories/systeembeheer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Casestudy</title>
-      <link>http://uweurl/post/Casestudy/</link>
+      <link>http://wout-segers.github.io/post/Casestudy/</link>
       <pubDate>Wed, 11 May 2016 00:18:33 +0200</pubDate>
       
-      <guid>http://uweurl/post/Casestudy/</guid>
+      <guid>http://wout-segers.github.io/post/Casestudy/</guid>
       <description>
 
 &lt;h2 id=&#34;onderwerp:765e8f205c1a131d4910738e42acb877&#34;&gt;Onderwerp&lt;/h2&gt;
@@ -35,12 +35,12 @@ Er zijn ook een paar handige functies voorzien zoals bijvoorbeeld loop-functies.
 
 &lt;h2 id=&#34;foto-s:765e8f205c1a131d4910738e42acb877&#34;&gt;Foto&amp;rsquo;s&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://uweurl/post/screen_stage.png&#34; alt=&#34;minipic&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://wout-segers.github.io/post/screen_stage.png&#34; alt=&#34;minipic&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Hier ziet u links de QF-Test tool en rechts de applicaties(PrimeTime) die ermee getest werd. Op deze foto kun je duidelijk de GUI van de tool zien.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://uweurl/post/script_stage.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://wout-segers.github.io/post/script_stage.png&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Dit is een voorbeeld van een script dat we hebben moeten schrijven. De bedoeling hiervan was om altijd de huidige tijd als output te krijgen.&lt;/p&gt;
