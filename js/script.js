@@ -1,16 +1,29 @@
 $(document).ready(function() {
   $("img").click(function(){
-	$(this).addClass('highlighted')
+	$(this).toggleClass('highlighted'), 
+	$(this).toggleClass('gemarkeerd')
+	
 	
 	
 }); 
 var select = document.getElementsByClassName('highlighted');
-	$("#test2").click(function(){
-		var pos = $("#test").offset(); 
+	$("#calculate").click(function(){
+		var pos = $("#aankomst").offset(); 
 	
-
+		
    
-
+	var blue = document.getElementsByClassName('blauw gemarkeerd'); 
+	var brown = document.getElementsByClassName('bruin gemarkeerd'); 
+	
+			var green = document.getElementsByClassName('groen gemarkeerd'); 
+			
+	var kleurenCollectie = new Array(); 
+		$(brown).each(function() {
+		kleurenCollectie.push(this);
+		
+});
+	
+			
 		var offsetCollection = new Array();
 		$(select).each(function() {
 		offsetCollection.push(
@@ -22,14 +35,16 @@ var eyesCollection = new Array();
 		$(select).each(function() {
 		eyesCollection.push(this);
 });
-
+	console.log(brown); 
+	
+	console.log(kleurenCollectie); 
 	console.log(offsetCollection); 
 	console.log(eyesCollection);
 		
 	
      
   // var nieuw =  $(select).appendTo("body");
-   var k=0; 
+	var k=0; 
     
 	for(var k= 0; k<offsetCollection.length; k++)
 	{
@@ -40,15 +55,110 @@ var eyesCollection = new Array();
         'left': offsetCollection[k].left
 		
     }); 
-	$(eyesCollection[k]).toggleClass('highlighted'); 
+	
+	
+			
+			
+			for(var m=0; m<kleurenCollectie.length; m++)
+			{
+				console.log($(kleurenCollectie[m]).hasClass('highlighted')); 
+				if($(kleurenCollectie[m]).hasClass('highlighted') == true)
+					{
+						
+						 
+					}
+			
+				
+			}
+				 
+			
+	 $(eyesCollection[k]).toggleClass('highlighted'); 
 	$(eyesCollection[k]).animate({"z-index": "2", top: pos.top, left: pos.left});
 			$(eyesCollection[k]).fadeOut(); 
-			$(eyesCollection[k]).fadeIn(); 
+			
+			
+			
 		
 	} 
 		
-		
-		
+			
+			
+			
+			
+			
+					if(brown.length >= 1)
+			{
+				setTimeout(pauze, 2000); 
+				function pauze(){
+					
+					var oImg=document.createElement("img");
+					oImg.setAttribute('src', '1197149886129651796tonlima_Olhos_Castanhos_Brown_Eye.svg.hi.png');
+					oImg.setAttribute('alt', 'na');
+					oImg.setAttribute('height', '100px');
+					oImg.setAttribute('width', '100px');
+					
+					$(oImg).appendTo("body");
+					 
+					$(oImg).css({
+						'position': 'absolute', 
+						'top': pos.top, 
+						'left': pos.left,
+						'display': 'none'
+					});
+					$(oImg).fadeIn();
+				}
+				
+			}
+						
+					if(green.length >= 1 && brown.length == 0)
+			{
+				setTimeout(pauze, 2000); 
+				function pauze(){
+					
+					var foto = document.createElement("img");
+					foto.setAttribute('src', 'tonlima_Olhos_Verdes_Green_Eye.png');
+					foto.setAttribute('alt', 'na');
+					foto.setAttribute('height', '100px');
+					foto.setAttribute('width', '100px');
+					
+					$(foto).appendTo("body");
+					 
+					$(foto).css({
+						'position': 'absolute', 
+						'top': pos.top, 
+						'left': pos.left,
+						'display': 'none'
+					});
+					$(foto).fadeIn();
+				}
+	
+			
+			}
+			
+			if(blue.length >= 1 && green.length == 0 && brown.length == 0)
+			{
+				setTimeout(pauze, 2000); 
+				function pauze(){
+					
+					var pic = document.createElement("img");
+					pic.setAttribute('src', 'tonlima_Olho_Azul_Blue_Eye.png');
+					pic.setAttribute('alt', 'na');
+					pic.setAttribute('height', '100px');
+					pic.setAttribute('width', '100px');
+					
+					$(pic).appendTo("body");
+					 
+					$(pic).css({
+						'position': 'absolute', 
+						'top': pos.top, 
+						'left': pos.left,
+						'display': 'none'
+					});
+					$(pic).fadeIn();
+				}
+	
+			
+			}
 		 
 		
 		
@@ -80,7 +190,7 @@ var eyesCollection = new Array();
     }  
 }); */
 
- });
+  });
 	
 	
 	
