@@ -39,7 +39,8 @@
 .difke
 {
 	float: left; 
-	margin: 150px; 
+	margin-left: 10%; 
+	margin-top: 5%;
 	width: 500px; 
 	height: 492px; 
 	border: solid green 5px; 
@@ -62,7 +63,7 @@
 	height: 50px; 
 	background-color: #4CAF50; 
 	position: absolute;
-	margin-left: 660px;
+	margin-left: 40%;
 	top: 700px; 
 	cursor: pointer; 
 	border: 2px solid #083102;
@@ -93,7 +94,7 @@ img
 	height: 50px; 
 	background-color: #4CAF50; 
 	position: absolute;
-	margin-left: 660px;
+	margin-left: 40%;
 	top: 90%; 
 	cursor: pointer; 
 	border: 2px solid #083102;
